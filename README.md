@@ -8,5 +8,5 @@ A collection of Jupyter Notebooks implementing the fundamental quantum algorithm
 *   **Factoring (`Factoring.ipynb`)**: Focuses on the core arithmetic of **Shor's factoring algorithm**, breaking down the step-by-step period-finding quantum circuit.
 *   **PennyLane Basics (`PENNYLANE BASICS.ipynb`)**: A quick-start notebook establishing qubit initializations, custom unitary mappings, and measurement operators native to the [PennyLane framework](https://pennylane.ai/codebook/introduction-to-quantum-computing).
 *   **Quantum Cryptography (`Quantum Cryptography.ipynb`)**: Practical implementation of few-qubit security protocols and basic quantum cryptography logic detailed in the textbook.
-*   **Quantum Error Correction (`Quantum Error Correction.ipynb`)**: Circuit realizations of Mermin's error mitigation chapters, featuring **Shor's 9-qubit code** and the **7-qubit code** circuit designs.
+*   **Quantum Error Correction (`Quantum Error Correction.ipynb`)**: Circuit realizations of Mermin's error mitigation chapters.
 
